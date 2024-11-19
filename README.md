@@ -1,2 +1,6 @@
 # Merge-Sort-Project-Patika.dev
-Merge Sort Project by Patika.dev
+Proje 2
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
